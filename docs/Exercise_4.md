@@ -58,13 +58,17 @@
         		return toReturn;
     		}
     ```
-3. Add a reference to the Apex Class in HelloWorld.cmp by adding `controller="UserSelect"` to the `<aura:component>` tag.
+3. Add a reference to the Apex Class in HelloWorld.cmp by adding `controller="UserSelect"` to the `<aura:component>` tag:
+	```html
+		<aura:component controller="UserSelect" implements="flexipage:availableForAllPageTypes" access="global">
+	```
+
 4. Add a handler to fire when the component is initialized on the page, by adding the following after the opening `<apex:component>` tag:
 
 	```html
 		<aura:handler name="init" value="{!this}" action="{!c.doInit}" />
 	```
-5. Update the **HelloWorldController.js** file with the following code:
+5. Replace the **HelloWorldController.js** file with the following code:
 
 	```js
 		({
@@ -85,6 +89,6 @@
 	```
 		
 6. Save all the files.
-7. Refresh the Property page.
+7. Refresh the Property Record Detail page.
 
 #####On to **[Exercise 5](Exercise_5.md)**
