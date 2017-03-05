@@ -44,7 +44,7 @@
 		})
 
 6. Save the Controller file and the Component.
-7. Refresh the account page.
+7. Refresh the Property Record Detail page.
 8. Type a name in the input and press Tab or Return.
 
 ###Step 4 - Pulling data from Salesforce
