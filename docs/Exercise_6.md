@@ -15,7 +15,7 @@
 ###Step 2 - Add a Lightning Component to the Utility Bar
 1. Click the Setup icon and choose Setup.
 2. Click on **Apps** and choose **App Manager**.
-3. Click the Actions dropdown for Dreamhouse Classic Lightning and choose **Edit**.
+3. Click the Actions dropdown for Dreamhouse Console and choose **Edit**.
 4. Click the Utility Bar section at the top of the screen.
 5. Click the **Add** button and scroll down to Mortgage Calculator.
 6. Click Save.
