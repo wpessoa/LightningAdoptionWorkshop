@@ -32,7 +32,7 @@
 8. For Action, choose **Lightning Component**.
 9. Notice that **MortgageCalculatorCard** is already selected. The list only shows components that have the **force:lightningQuickAction** or **force:lightningQuickActionWithoutHeader** interface.
 10. Give the component a height of 400px.
-11. Give the component a label of **Mortgage Calculator**.
+11. Give the component a label of **Mortgage Calculator** and save
 11. Click on the Object Manager and choose Property again.
 12. Scroll down to the **Page Layouts** section and click on the **Property Layout**.
 13. Click the **override the predefined actions** link in the **Salesforce1 and Lightning Experience Actions** section.
