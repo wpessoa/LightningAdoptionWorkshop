@@ -26,7 +26,7 @@
 2. Open the **Mortgage Calculator Card**.
 3. In the component, add `force:lightningQuickActionWithoutHeader` to the **implements** attribute. Don't forget the comma to seperate the values from one another.
 4. Save the file.
-5. In **Setup**, choose **Objects and Fields**, then choose **Property**.
+5. In **Setup**, choose **Objects and Fields**, **Object Manager** then choose **Property**.
 6. Scroll down to **Buttons, Links and Actions**.
 7. Click the **New Action** button.
 8. For Action, choose **Lightning Component**.
